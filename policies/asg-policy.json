@@ -1,0 +1,9 @@
+{
+  "TargetValue": 50.0,
+  "PredefinedMetricSpecification": {
+    "PredefinedMetricType": "ASGAverageCPUUtilization"
+  },
+  "ScaleOutCooldown": 60,
+  "ScaleInCooldown": 120,
+  "DisableScaleIn": false
+}

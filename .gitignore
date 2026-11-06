@@ -1,0 +1,22 @@
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# AWS Credentials and state
+*.pem
+*.key
+credentials
+.aws/
+terraform.tfstate*
+.terraform/
+.terraform.lock.hcl
+
+# Logs & temporary files
+*.log
+tmp/
+dist/
