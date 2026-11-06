@@ -1,4 +1,4 @@
-# AWS Lab: Alta Disponibilidade com Load Balancer (ALB) e Auto Scaling no Console AWS
+﻿# Lab AWS - Balanceamento de Carga e Auto Scaling (ALB + ASG)
 
 Prática realizada durante a formação **AWS re/Start (Escola da Nuvem)** com foco em alta disponibilidade e escalabilidade automática na nuvem.
 
